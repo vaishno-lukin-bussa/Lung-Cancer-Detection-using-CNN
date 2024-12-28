@@ -17,7 +17,7 @@ The major aim of this project is to train a Convolutional Neural Network (CNN) t
 ## Callbacks:
   - Early stopping to avoid overfitting.
   - Learning rate reduction on plateau for adaptive optimization.
-- Performance Metrics:
+## Performance Metrics:
   - Confusion matrix and classification report.
 ## Dataset
 - The dataset is contained in a ZIP file located at: `/content/drive/MyDrive/lung_cancer_dataset/lung_cancer.zip`.
